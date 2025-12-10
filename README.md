@@ -231,4 +231,3 @@ To test the workflow manually:
 - State is a simple dictionary that flows through the graph
 - Execution is synchronous; for async/background tasks, see "Future Improvements"
 
-Enjoy building with this minimal but powerful workflow engine!
